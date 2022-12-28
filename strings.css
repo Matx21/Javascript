@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital@0;1&display=swap');
+
+body{
+    display: inline-block;
+    justify-content: space-around;
+    align-items: center
+    
+}
+body p{
+    font-size: 2rem;
+    font-family: 'Merriweather', serif;
+    align-items: center
+}
+.lenght{
+    background-color: blue;
+}
+.replace{
+    background-color: aqua;
+}
+.slice{
+    background-color: green;
+}
+.include{
+    background-color: aquamarine;
+}
+.trim{
+    background-color: blueviolet;
+}
+.endswith{
+    background-color: royalblue;
+}
+.Uppercase{
+    background-color: orchid;
+}
+.Lowercase{
+    background-color: darkcyan;
+}
